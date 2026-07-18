@@ -1,0 +1,18 @@
+{
+  "id": "saranboddu/dental-cbct-u-net-train",
+  "title": "Dental CBCT U-Net Train",
+  "code_file": "train_segmentation.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "",
+  "dataset_sources": [
+    "saranboddu/dental-cbct-preprocessed-zip"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

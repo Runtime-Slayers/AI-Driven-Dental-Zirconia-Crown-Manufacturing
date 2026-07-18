@@ -1,0 +1,85 @@
+{
+    "summary": {
+        "avg_regret_categorical_Y": 0.20003491922527253,
+        "avg_regret_no_ph": 7.855245267663323,
+        "avg_regret_no_ltd": 0.0017184628798542433,
+        "avg_regret_population_force": 0.013979369917588035
+    },
+    "patients": [
+        {
+            "patient_id": 0,
+            "archetype": "Acidic Diet",
+            "force_magnitude_n": 466.4296700107636,
+            "optimal_Y": 4.32,
+            "max_expected_utility": -1.8130619996097703,
+            "categorical_Y_choice": 4.0,
+            "regret_categorical_Y": 0.1567586973873214,
+            "Y_choice_no_ph": 2.08,
+            "regret_no_ph": 7.550814435621728,
+            "Y_choice_no_ltd": 4.32,
+            "regret_no_ltd": 0.002416074348251307,
+            "Y_choice_population_force": 4.38,
+            "regret_population_force": 0.0072268325284259305
+        },
+        {
+            "patient_id": 1,
+            "archetype": "Normal",
+            "force_magnitude_n": 325.1711611205559,
+            "optimal_Y": 4.28,
+            "max_expected_utility": -1.716432478183793,
+            "categorical_Y_choice": 4.0,
+            "regret_categorical_Y": 0.11529513788995427,
+            "Y_choice_no_ph": 2.08,
+            "regret_no_ph": 7.244212160751544,
+            "Y_choice_no_ltd": 4.28,
+            "regret_no_ltd": 0.0024114053893045106,
+            "Y_choice_population_force": 4.38,
+            "regret_population_force": 0.018238643781928632
+        },
+        {
+            "patient_id": 2,
+            "archetype": "Normal",
+            "force_magnitude_n": 689.8079194272865,
+            "optimal_Y": 4.4,
+            "max_expected_utility": -1.9566844421916232,
+            "categorical_Y_choice": 4.0,
+            "regret_categorical_Y": 0.23779808438136363,
+            "Y_choice_no_ph": 2.08,
+            "regret_no_ph": 8.063204535401496,
+            "Y_choice_no_ltd": 4.4,
+            "regret_no_ltd": 5.073752167517043e-06,
+            "Y_choice_population_force": 4.38,
+            "regret_population_force": 0.002894724283627692
+        },
+        {
+            "patient_id": 3,
+            "archetype": "Acidic Diet",
+            "force_magnitude_n": 428.1920638229129,
+            "optimal_Y": 4.31,
+            "max_expected_utility": -1.790609693476451,
+            "categorical_Y_choice": 4.0,
+            "regret_categorical_Y": 0.14629994516239564,
+            "Y_choice_no_ph": 2.08,
+            "regret_no_ph": 7.477166451348982,
+            "Y_choice_no_ltd": 4.31,
+            "regret_no_ltd": 0.0013579571843505,
+            "Y_choice_population_force": 4.38,
+            "regret_population_force": 0.009274282479633467
+        },
+        {
+            "patient_id": 4,
+            "archetype": "Bruxer",
+            "force_magnitude_n": 1043.3494300121683,
+            "optimal_Y": 4.52,
+            "max_expected_utility": -2.155977268694672,
+            "categorical_Y_choice": 5.0,
+            "regret_categorical_Y": 0.3440227313053277,
+            "Y_choice_no_ph": 2.08,
+            "regret_no_ph": 8.940828755192861,
+            "Y_choice_no_ltd": 4.52,
+            "regret_no_ltd": 0.0024018037251973823,
+            "Y_choice_population_force": 4.38,
+            "regret_population_force": 0.03226236651432446
+        }
+    ]
+}
